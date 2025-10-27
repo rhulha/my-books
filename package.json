@@ -1,0 +1,19 @@
+{
+  "name": "my-books-blog",
+  "version": "1.0.0",
+  "description": "Preview site for my books",
+  "scripts": {
+    "start": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Raymond Hulha",
+  "license": "standard",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}

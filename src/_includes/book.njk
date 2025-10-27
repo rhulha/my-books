@@ -1,0 +1,34 @@
+---
+layout: base.njk
+---
+
+<div class="book-header">
+    <div class="book-cover-large">
+        {% if coverImage %}
+        <img src="{{ coverImage }}" alt="{{ title }} cover" class="cover-image-large">
+        {% else %}
+        <div class="placeholder-cover-large">{{ title[0] }}</div>
+        {% endif %}
+    </div>
+    <div class="book-header-info">
+        <h2>{{ title }}</h2>
+        <p class="book-description">{{ description }}</p>
+        <a href="/" class="btn-secondary">Back to Books</a>
+    </div>
+</div>
+
+<section class="chapters">
+    <h3>Available Chapters</h3>
+    <div class="chapters-list">
+        {% for chapter in collections.chapters | sort(false, false, 'data.chapterNumber') %}
+        {% if chapter.data.bookId == bookId %}
+        <article class="chapter-card">
+            <div class="chapter-number">Chapter {{ chapter.data.chapterNumber }}</div>
+            <h4>{{ chapter.data.title }}</h4>
+            <p class="chapter-excerpt">{{ chapter.templateContent | striptags | truncate(100) }}...</p>
+            <a href="{{ chapter.url }}" class="btn-small">Read Chapter</a>
+        </article>
+        {% endif %}
+        {% endfor %}
+    </div>
+</section>

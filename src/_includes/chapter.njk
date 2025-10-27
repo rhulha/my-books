@@ -1,0 +1,30 @@
+---
+layout: base.njk
+---
+
+<div class="chapter-content">
+    <nav class="chapter-nav">
+        <a href="/books/{{ bookId }}/" class="btn-secondary">← Back to {{ bookTitle }}</a>
+    </nav>
+
+    <article class="chapter">
+        <div class="chapter-header">
+            <span class="chapter-meta">Chapter {{ chapterNumber }}</span>
+            <h2>{{ title }}</h2>
+        </div>
+
+        <div class="chapter-text">
+            {{ content | safe }}
+        </div>
+
+        <nav class="chapter-nav-bottom">
+            {% if chapterNumber > 1 %}
+            <a href="/books/{{ bookId }}/chapter-{{ chapterNumber - 1 }}/" class="btn">← Previous Chapter</a>
+            {% endif %}
+
+            <a href="/books/{{ bookId }}/chapter-{{ chapterNumber + 1 }}/" class="btn">Next Chapter →</a>
+
+            <a href="/books/{{ bookId }}/" class="btn-secondary">Back to Book</a>
+        </nav>
+    </article>
+</div>

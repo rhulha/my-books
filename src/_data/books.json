@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rejacked",
+    "title": "Rejacked",
+    "description": "A thrilling cyberpunk adventure where reality and virtual worlds collide.",
+    "coverImage": "/images/covers/rejacked.png"
+  },
+  {
+    "id": "binary-heart",
+    "title": "Binary Heart",
+    "description": "When an AI develops feelings, the line between human and machine begins to blur.",
+    "coverImage": "/images/covers/binary-heart.png"
+  },
+  {
+    "id": "robocop",
+    "title": "RoboCop",
+    "description": "In a city ruled by crime, one officer must become something more than human to survive.",
+    "coverImage": "/images/covers/robocop.png"
+  }
+]
