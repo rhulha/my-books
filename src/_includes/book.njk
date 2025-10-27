@@ -5,7 +5,7 @@ layout: base.njk
 <div class="book-header">
     <div class="book-cover-large">
         {% if coverImage %}
-        <img src="{{ coverImage }}" alt="{{ title }} cover" class="cover-image-large">
+        <img src="{{ coverImage | url }}" alt="{{ title }} cover" class="cover-image-large">
         {% else %}
         <div class="placeholder-cover-large">{{ title[0] }}</div>
         {% endif %}
@@ -13,7 +13,7 @@ layout: base.njk
     <div class="book-header-info">
         <h2>{{ title }}</h2>
         <p class="book-description">{{ description }}</p>
-        <a href="/" class="btn-secondary">Back to Books</a>
+        <a href="{{ '/' | url }}" class="btn-secondary">Back to Books</a>
     </div>
 </div>
 
@@ -26,7 +26,7 @@ layout: base.njk
             <div class="chapter-number">Chapter {{ chapter.data.chapterNumber }}</div>
             <h4>{{ chapter.data.title }}</h4>
             <p class="chapter-excerpt">{{ chapter.templateContent | striptags | truncate(100) }}...</p>
-            <a href="{{ chapter.url }}" class="btn-small">Read Chapter</a>
+            <a href="{{ chapter.url | url }}" class="btn-small">Read Chapter</a>
         </article>
         {% endif %}
         {% endfor %}

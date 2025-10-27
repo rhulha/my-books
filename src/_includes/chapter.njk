@@ -4,7 +4,7 @@ layout: base.njk
 
 <div class="chapter-content">
     <nav class="chapter-nav">
-        <a href="/books/{{ bookId }}/" class="btn-secondary">← Back to {{ bookTitle }}</a>
+        <a href="{{ ('/books/' + bookId + '/') | url }}" class="btn-secondary">← Back to {{ bookTitle }}</a>
     </nav>
 
     <article class="chapter">
@@ -19,12 +19,12 @@ layout: base.njk
 
         <nav class="chapter-nav-bottom">
             {% if chapterNumber > 1 %}
-            <a href="/books/{{ bookId }}/chapter-{{ chapterNumber - 1 }}/" class="btn">← Previous Chapter</a>
+            <a href="{{ ('/books/' + bookId + '/chapter-' + (chapterNumber - 1) + '/') | url }}" class="btn">← Previous Chapter</a>
             {% endif %}
 
-            <a href="/books/{{ bookId }}/chapter-{{ chapterNumber + 1 }}/" class="btn">Next Chapter →</a>
+            <a href="{{ ('/books/' + bookId + '/chapter-' + (chapterNumber + 1) + '/') | url }}" class="btn">Next Chapter →</a>
 
-            <a href="/books/{{ bookId }}/" class="btn-secondary">Back to Book</a>
+            <a href="{{ ('/books/' + bookId + '/') | url }}" class="btn-secondary">Back to Book</a>
         </nav>
     </article>
 </div>

@@ -13,7 +13,7 @@ title: Home
     <article class="book-card">
         <div class="book-cover">
             {% if book.coverImage %}
-            <img src="{{ book.coverImage }}" alt="{{ book.title }} cover" class="cover-image">
+            <img src="{{ book.coverImage | url }}" alt="{{ book.title }} cover" class="cover-image">
             {% else %}
             <div class="placeholder-cover">{{ book.title[0] }}</div>
             {% endif %}
@@ -30,7 +30,7 @@ title: Home
                 {% endfor %}
                 <span>{{ chapterCount }} chapters available</span>
             </div>
-            <a href="/books/{{ book.id }}/" class="btn">Read Preview</a>
+            <a href="{{ ('/books/' + book.id + '/') | url }}" class="btn">Read Preview</a>
         </div>
     </article>
     {% endfor %}
