@@ -8,7 +8,7 @@ permalink: /books/robocop/chapter-1/index.html
 tags: chapters
 ---
 
-Chapter 1: Morning Routine
+Chapter 1: Morning Routine.
 
 "Alex, you'll be late again!" shouted Ellen.
 
@@ -18,7 +18,7 @@ The radio was playing Here Comes The Sun by the Beatles.
 
 Ellen poured bacon and scrambled eggs onto a plate, while moving her head to the rhythm and handed the plate to Alex.
 
-"Coffee is on the table"
+"Coffee is on the table."
 
 "You're an angel," said Alex, kissing her on the cheek.
 
@@ -50,44 +50,48 @@ Jamie swallowed. "A bit much what?"
 
 Alex shook his head and turned back to his plate. He thought about saying something to Ellen, but decided against it.
 
-News started to play on the radio and the host talked about a traffic jam due to a car crash on the highway.
+The Beatles song ended and the news began to play.
 
-Alex looked at his watch. 'Crap.' He took a quick sip of his coffee and started to eat faster.
+"We got an accident southbound on I-75, looks like a three-car situation. Give yourself an extra twenty minutes if you're heading that way"
 
-The news host mentioned a robbery at a bank downtown. The third this Month.
+Alex looked at his watch. Crap. He took a quick sip of his coffee and started to eat faster.
 
-Then he said that the deaths due to Nuke overdosing had reached a new record.
+"Fist Michigan on Jefferson was hit yesterday, making this the third bank robbery this week. Police are investigating but no suspects have been identified as of yet. DPD is asking anyone with information..."
 
-The host cited sergeant Warren Reed, saying that police resources were stretched to the limit dealing with the Nuke epidemic.
+Alex sighed. The city could no go on like this.
+Jamie stabbed a piece of bacon without looking up.
 
-The host then switched to Richard Jones, Vice President, OCP.
+"Nuke-related deaths have hit a new record, according to city health officials."
 
-"The solution is simple," said Jones. "OCP AutoCops are ready to be deployed on the streets. They are faster, stronger and never need to sleep. With OCP AutoCops on patrol, crime will be a thing of the past."
+"Richard Jones, Vice President of OCP, had this to say:"
 
-Ellen looked at Alex, she knew he wasn't a fan.
+"The solution is simple, AutoCops are ready to be deployed on the streets. They are faster, stronger and expandable. With AutoCops on patrol, crime will be a thing of the past."
 
-Finally the host switched to Detroit mayor Sofía Delgado.
+Ellen looked over at Alex. Her fork settled quiet against her plate.
 
-"We are looking at all possible solutions to the crime wave affecting our city. OCP's AutoCops are one of the options we are looking at. But no final decisions have been made yet. This is a decision that has to be made carefully, considering all ethical and financial implications. The city budget is deep in the red as it is."
+"We asked Detroit mayor Sofía Delgado for comment: We are looking at all possible solutions to the crime wave affecting our city. AutoCops are one of the options we are looking at.  This is a decision that has to be made carefully, considering all ethical and financial implications. The city budget is already stretched thin and OCP is charging an arm and a leg."
 
-"Alexa stop!" said Ellen and the radio turned off. She looked at Alex with concerns in her eyes.
+"Alexa stop!" said Ellen and the radio turned off. She looked at Alex.
 
-Alex looked at his watch again. "I gotta go! I need to drive around that traffic jam."
+He looked at his watch again. "I gotta go! I need to drive around that traffic jam."
+
 He pretended to be unfazed by the news, but Ellen knew better.
 
-Alex waved at Jamie again grabbing her attention and then mimicked rotating a steering wheel with his hands.
+Alex waved at Jamie, grabbing her attention and mimicked a rotating steering wheel with his hands.
 
-Jamie nodded and emptied her mixed fruit juice. Then she shoved a final forkful of eggs and bacon into her mouth and stood up.
+Jamie nodded and emptied her fruit juice. Then she shoved a final forkful of eggs and bacon into her mouth and stood up.
 
-Alex followed suit with his coffee and grabbed his keys. Then he kissed Ellen. "Bye, love you."
+Alex followed suit with his coffee and grabbed his keys.
+
+Then he kissed Ellen. "Bye, love you."
 
 "Love you too," said Ellen. "Wait!"
 
-Alex turned around. Ellen took a step forward and hugged her husband, clutching him tightly.
+Ellen took a step forward and hugged her husband, clutching him tightly.
 
 "Stay safe." She looked him in his eyes. "Please."
 
-Alex hugged her back. "I will. I promise!", a smile crossing his face. "I will call you during lunch!"
+Alex hugged her back. "I will. I promise!", a smile crossed his face. "I will call you during lunch!"
 
 "Okay." She let him go. "Good luck!"
 
@@ -99,30 +103,21 @@ Alex turned around, looking at her standing in the door frame. "What?"
 
 "Megan can take me to school!"
 
-"Who?"
+"Who is Megan?"
 
-"My friend Megan."
+"My friend Megan. Her mom gave her the car."
 
-"Really?"
+Alex looked at Ellen also standing in the door frame.
 
-"Yeah! Her mom gave her the car."
-
-Alex felt torn, on the one hand he felt a tinge of relief not having to drop Jamie off at school and save some time.
-On the other hand he didn’t know Megan very well.
-
-Alex looked at Ellen also standing in the door frame next to their daughter.
-
-"Megan is the nice one right?"
-
-Ellen nodded. "Yes."
-
-Alex shrugged his shoulders. "What do you think?"
+"What do you think?"
 
 Jamie looked at Ellen with pleading eyes.
 
 "Fine by me," said Ellen.
 
-Alex thought for a moment. "Alright then. Drive safe, have fun at school!"
+Alex thought for a moment. "Alright then. Drive safe, have fun at school and say no to drugs."
+
+Jamie rolled her eyes. "Of course, Dad."
 
 Alex waved and continued for his car.
 
@@ -136,6 +131,4 @@ He loved the car and had been working hard to afford it.
 
 The key in his pocket authorized him and he opened the door.
 
-Then everything turned white for a second and then black.
-
-
+Then everything went white. Then black.

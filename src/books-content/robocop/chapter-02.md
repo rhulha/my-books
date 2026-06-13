@@ -8,13 +8,15 @@ permalink: /books/robocop/chapter-2/index.html
 tags: chapters
 ---
 
-Chapter 2 - Sam
+Chapter 2 - Sam.
 
-A silver, human-like robot was waiting behind a door at the edge of OCP’s test parkour.
+A silver, human-like robot waited behind a door at the edge of OCP's test parkour.
 
-It was armed with a Belgian FN P90, boasting its iconic 50 round magazine.
+It was armed with a Belgian FN P90, boasting its iconic, top mounted 50 round magazine.
 
-Samantha McAllister clicked a button on her laptop. She was sitting in a bullet proof balcony overwatching the scenario.
+Samantha McAllister clicked the start button on her laptop and leaned back.
+
+She sat in a bullet proof, air conditioned balcony overwatching the scenario.
 
 AC4, short for AutoCop 4, immediately sprang to life and used its left hand like a hydraulic rescue tool to pry open the door.
 
@@ -24,7 +26,7 @@ The robot moved quickly and silently, using a normal walking pace, the weapon he
 
 As AC4 moved down the hallway, cameras mounted in the ceiling recorded everything.
 
-The robot had already passed a few doors to the left and right, when suddenly a door to the left sprang open and the upper part of an armed man leaned out.
+The robot had already passed a few doors to the left and right, when a door to the left sprang open and the upper part of an armed man leaned out.
 
 AC4 aimed at the suspect, but did not shoot.
 
@@ -44,7 +46,7 @@ It correctly calculated that it had to turn right and quickly moved on.
 
 The robot was getting close.
 
-AC4 wasted no time and moved quickly through the hallway. Suddenly a door sprang open behind it and another plastic perp aimed his weapon at AC4. But AC4 was faster. Having cameras at the back of his head, he had identified the threat in 0.02 milli seconds and after 10 milliseconds put two bullets into the troublemaker. One between the eyes and one in the chest.
+AC4 wasted no time and moved quickly through the hallway. Suddenly a door sprang open behind it and another plastic perp aimed his weapon at AC4. But AC4 was faster. Having cameras at the back of its head, it had identified the threat in 0.02 milli seconds and after 10 milliseconds put two bullets into the troublemaker. One between the eyes and one in the chest.
 
 The upper body of another pretend gangster was lowered to the floor unceremoniously.
 
@@ -52,13 +54,13 @@ Sam checked the stats. Movement was smooth and bullet usage was efficient. So fa
 
 AC4 reached the last T junction and turned to the right again. Another hoodlum popped out of a door behind AC4 and tried to aim his weapon, only to meet the same fate as the other.
 
-AC4 didn’t even slow down and crossed the final hallway without breaking stride.
+AC4 didn't even slow down and crossed the final hallway without breaking stride.
 
-Suddenly 3 perps popped out around it. 2 behind him on each side and one in front of it from the left.
+Three perps popped out around it. Two behind it on each side and one in front of it from the left.
 
 In this scenario, AC4 had to only detect the mere presence of weapons and was allowed to dispose of threats in any order.
 
-AC4 shot the bad guy in front of it, because the weapon was already aimed at him.
+AC4 shot the bad guy in front, because the weapon was already aimed at it.
 
 Then it turned its upper body left, while counter balancing the sudden change in rotational force by rotating its lower body in the opposite direction.
 
@@ -72,7 +74,7 @@ AC4 turned its upper and lower body back forward again and continued for door 25
 
 Upon reaching it, it used its left hand to pry open the door again.
 
-Sam nibbled nervously on her lower lip.
+Sam nibbled on her lower lip.
 
 AC4 pushed the door open and scanned the room faster than any human could ever do.
 
@@ -84,59 +86,63 @@ The perp moved his head behind the head of the woman and pulled up his weapon.
 
 Sam sighed.
 
-She could see the object identification square projected over the live feed of AC4’s front eyes.
+She could see the object identification square projected over the live feed of AC4's front eyes.
 
 Unfortunately, the object identification neural net had classified both the man and the woman as threats.
 
 AC4 shot the woman once between the eyes and once in her chest.
 
-"Fuck!" shouted Sam frustrated. "Not again!"
+"Fuck!" shouted Sam. "Not again!"
 
 She clicked a button and AC4 lowered its weapon.
 
 Sam blew a strand of hair out of her face.
 
-The AutoCops could hear, speak, see and reason.
+AutoCops could hear, speak, see and reason, but each function relied on its own dedicated large neural net, making the hardware requirements unreasonably expensive.
 
-But each function relied on its own dedicated neural net, making the system bulky and expensive.
+Her task was to use drastically smaller neural nets to save costs.
 
-Her task was to combine each separate neural net into one to save costs.
+But the capabilities of these smaller neural nets were much worse, leading to occasional misclassifications.
 
-But clearly something had gone wrong during the compbination.
+"Ugh," groaned Sam, estimating the time it would take to fix it.
 
-"Ugh," groaned Sam once more, estimating the time it would take to fix it.
-
-She had a presentation in 2 days and really didn’t need this right now.
+She had a presentation in two days and really didn't need this right now.
 
 She made a copy of the video feed from AC4, labeled the woman as civilian and the face behind her as perpetrator.
 
-She was just about to start a neural net tuning run, when Drew Larson, the hardware guy, bursted into the enclosed balcony.
+She was just about to start a neural net tuning run, when Drew Larson, the hardware guy, burst into the enclosed balcony.
 
 Drew was tall, always in worn, grease-stained shirts and known for carrying around a battery-powered soldering iron in something resembling a gun holster.
 
-He adjusted his glasses, grinning in a way that meant something big.
+He adjusted his glasses. The grin on his face was the kind he couldn't suppress even when he tried.
 
-"Sam, we’ve got a candidate!"
-
-                                         *  *  *
+"Sam, we've got a candidate!"
 
 Sam looked at him, not getting what he was talking about.
 
 "A candidate?" she echoed, processing the words as her eyes sharpened.
 
-"Yeah, real-life cop. All limbs blown off, full replacement. They’re prepping him in surgery right now."
+"Yeah, real-life cop. All limbs blown off, full replacement. They're prepping him in surgery right now."
 
 Her eyes grew large. "Holy shit, really?"
 
 "Yes! Come, come!" shouted Drew while waving his right forearm, as if it would speed up Sam somehow.
 
-Well, it actually worked and Sam quickly started the remote tuning run before closing her laptop. Her hands were shaking a bit.
+"Why do they need us?"
+
+"They want us to calibrate the NeuroKinetic Interface."
+
+"Have you calibrated a NeuroKinetic Interface before?"
+
+Drews smile grew even bigger. "No, but you have!"
+
+Sam rolled her eyes and shook her head. "You would lie to your own mother to get close to the guy."
+
+Sam quickly started the remote tuning run before closing her laptop.
 
 "This feels surreal," she said to Drew as she was standing up.
 
 She stuffed her laptop into her satchel, before following Drew towards the door.
-
-Good thing I'm not responsible for threat detection in this case, she thought to herself, just the biofeedback.
 
 They hustled down the hall, her laptop and his diagnostic tools stuffed into a satchel each.
 
@@ -144,10 +150,11 @@ They took the elevator to the underground parking.
 
 "Keys?" asked Sam.
 
-Drew dangled a key chain with a Ford logo. 
+Drew dangled a key chain with a Ford logo.
 
-Drew pressed a button on the key fab and a Ford Fusion blinked and chirped in response.
-"Oh wow you got the new Fusion," said Sam visibly impressed.
+Drew pressed a button on the key fob and a new Ford blinked and chirped in response.
+
+"Oh wow you got the new Fusion," said Sam.
 
 "Yeah, boss wants us to get there quickly. We can even use the emergency lights if we get into a sticky situation."
 
@@ -159,9 +166,9 @@ Drew nodded and went for the driver's seat. He opened the door and sat down.
 
 He quickly adjusted the rearview mirror as Sam took the seat next to him.
 
-The hospital, a relatively short ride from OCP headquarters, had its own gleaming wing dedicated to the company’s cutting-edge prosthetics division.
+The hospital, a relatively short ride from OCP headquarters, had its own gleaming wing dedicated to the company's cutting-edge prosthetics division.
 
-'OCP prosthetics division.' Well that was the official name at least.
+'OCP Armed Forces and Law Enforcement Prosthetics.' Well that was the official name at least.
 
 But everyone at OCP just called it "RoboCop".
 
@@ -169,7 +176,7 @@ Drew started the engine and pulled out of the parking space, heading for the exi
 
 "How was the run?" he asked.
 
-Sam grunted again. "5 bad guys and one nice lady dead."
+Sam grunted again. "Five bad guys and one nice lady dead."
 
 Drew looked surprised. "Object identification acting up again?"
 
@@ -191,29 +198,30 @@ Drew nodded. "Basically."
 
 "So all limbs?"
 
-Drew nodded. "Nothing’s left, just some flesh, his lungs, his heart and his head. I heard his wife used four belts to stop the worst of the bleeding."
+Drew nodded. "Nothing's left, just some flesh, his lungs, his heart and his head. I heard his wife used four belts to stop the worst of the bleeding."
 
-Sam opened her mouth while starring at Drew. "Are you kidding me?"
+"Are you kidding me?"
 
-Drew shook his head. "Nope, she has some sort of medical degree, she knew what she was doing apparently. Saved the guy’s life."
-"Her husband’s."
+Drew shook his head. "Nope, she has some sort of medical degree, she knew what she was doing apparently. Saved the guy's life."
+
+"Her husband's."
 
 Drew nodded. "Yeah. Sick. Gotta wonder who will be more traumatized."
 
-Sam couldn’t help but chuckle a little bit, but she quickly caught herself again.
+Sam couldn't help but chuckle a little bit.
 
 "Hard to believe this is real," she murmured, gripping the edge of her laptop bag as the Fusion sped through the streets.
 
-"It was bound to happen eventually. I mean, that’s what we’ve been waiting for, right?" asked Drew.
+"It was bound to happen eventually. I mean, that's what we've been waiting for, right?" asked Drew.
 
-Sam nodded slowly, OCP had given many soldiers and civilians with lost limbs prosthetics, but never before a full body.
+Sam nodded slowly, OCP had given many soldiers and some law enforcement officers with lost limbs prosthetics, but never before a full body.
 
-"He’s getting the full-body package," said Drew as if reading Sam’s thoughts. "Arms, legs, torso, the whole nine yards. And I heard
- they’ll only keep the lung and heart around as long as necessary. Then it’s hasta la vista baby.”
+"He's getting the full-body package," said Drew as if reading Sam's thoughts. "Arms, legs, torso, the whole nine yards. And I heard
+ they'll only keep the lung and heart around as long as necessary. Then it's hasta la vista baby."
 
-Sam punched Drew’s arm playfully. "Don’t say it like that man."
+Sam punched Drew's arm playfully. "Don't say it like that man."
 
-Drew shrugged. "OCP is betting big on this. They can't get the government to buy the AutoCops, so this is the next best thing." 
+Drew shrugged. "OCP is betting big on this. They can't get the government to buy the AutoCops, so this is the next best thing."
 
 Drew pulled into the special OCP employee parking lot. Another boom gate stopped them, but his OCP ID card got them in.
 
@@ -227,10 +235,8 @@ He stopped the engine and they got out of the car.
 
 They quickly grabbed their satchels and headed for the hospital entrance.
 
-Sam’s gaze drifted, her thoughts on the stranger whose life they were about to change forever.
+Sam's gaze drifted, her thoughts on the stranger whose life they were about to change forever.
 
 "Imagine surviving a bomb blast just to wake up with your body replaced by metal and wires."
 
-Drew nodded. "Yeah, If the bomb didn’t kill him, that trauma probably will."
-
-
+Drew nodded. "Yeah, If the bomb didn't kill him, the trauma probably will."
